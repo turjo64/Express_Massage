@@ -1,0 +1,23 @@
+{
+  "name": "express_massage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turjo64/Express_Massage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turjo64/Express_Massage/issues"
+  },
+  "homepage": "https://github.com/turjo64/Express_Massage#readme",
+  "dependencies": {
+    "config": "^3.3.3",
+    "express": "^4.17.1"
+  }
+}
